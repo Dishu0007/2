@@ -1,0 +1,21 @@
+{
+  "name": "practicum",
+  "version": "1.0.0",
+  "description": " Заготовка для второй домашней работы.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\User\\Desktop\\practicum"
+  },
+  "author": "syslik",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2"
+  }
+}
